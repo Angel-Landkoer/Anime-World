@@ -11,7 +11,7 @@ import { ErrorPage } from "../pages/404/ErrorPage";
 export function Main_router() {
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "Anime-World/",
       element: <Home />,
     },
     {
